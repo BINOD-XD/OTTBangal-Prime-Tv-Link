@@ -83,11 +83,11 @@ cd OTTBangalPrime-Tv-Link-Extractor
 ls
 ```
 ```
-python taifun.py
+python ottbanglaprime.py
 ```
 
 ## WARNING : 
-***WITHOUT GIVING  IS ILLEGAL, SO USE IT WITH YOUR OWN RISK***
+***WATCH IP TV WITHOUT GIVING GOVERNMENT TAX IS ILLEGAL, SO USE IT WITH YOUR OWN RISK***
 
 ## CONNECT WITH US :
 
