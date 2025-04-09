@@ -34,7 +34,9 @@ This Is A Python Tool. You Can Extract OTTBangla Prime Paid Version App All Tv C
 
 <br>
 <p align="center">
-<img width="100%" src="https://github.com/BINOD-XD/BOOMBASTIC-CLONE/blob/main/20231211_003656.png"/>
+<img width="30%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example1.jpg"/>
+<img width="30%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example2.jpg"/>
+<img width="30%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example3.jpg"/>
 </p>
 
 ## AVAILABLE ON :
@@ -67,15 +69,15 @@ pip install pycurl
 pip install httpx
 ```
 ```
-rm -rf BOOMBASTIC-CLONE
+rm -rf OTTBangalPrime-Tv-Link-Extractor
 ```
 ```
-git clone https://github.com/BINOD-XD/BOOMBASTIC-CLONE
+git clone https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor
 ```
 
 ## How to use: 
 ```
-cd BOOMBASTIC-CLONE
+cd OTTBangalPrime-Tv-Link-Extractor
 ```
 ```
 ls
@@ -85,7 +87,7 @@ python taifun.py
 ```
 
 ## WARNING : 
-***FACEBOOK CLONING IS ILLEGAL, SO USE IT WITH YOUR OWN RISK***
+***WITHOUT GIVING  IS ILLEGAL, SO USE IT WITH YOUR OWN RISK***
 
 ## CONNECT WITH US :
 
