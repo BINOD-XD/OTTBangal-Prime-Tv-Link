@@ -66,6 +66,9 @@ This Is A Python Tool. You Can Extract OTTBangla Prime Paid Version App All Tv C
 ```
 apt update -y;apt upgrade -y;pkg install python -y;pkg install python2 -y;pkg install wget -y;pip install requests;pip install mechanize;pip install bs4;pip install httpx;pip install pycurl;pip install rich;pip install future;pip install chardet;pip install urllib3
 ```
+rm -rf OTTBangalPrime-Tv-Link-Extractor
+```
+```
 git clone https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor
 ```
 
