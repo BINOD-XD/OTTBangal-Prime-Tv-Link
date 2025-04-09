@@ -58,9 +58,9 @@ This Is A Python Tool. You Can Extract OTTBangla Prime Paid Version App All Tv C
 * 1gb ram
 
 ## FEATURES :
-* [+] Random Facebook Cloning !
-* [+] File Facebook Cloning !
-* [+] File Create !
+* [+] Easy To Use !
+* [+] All Channel Extract In JSON !
+* [+] OTTBangla All Channel Bypass !
 
 ## INSTALLATION :
 ```
