@@ -38,9 +38,9 @@ This Is A Python Tool. You Can Extract OTTBangla Prime Paid Version App All Tv C
 
 <br>
 <p align="center">
-<img width="50%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example1.jpg"/>
-<img width="50%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example2.jpg"/>
-<img width="50%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example3.jpg"/>
+<img width="35%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example1.jpg"/>
+<img width="35%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example2.jpg"/>
+<img width="35%" src="https://github.com/BINOD-XD/OTTBangalPrime-Tv-Link-Extractor/blob/main/Example3.jpg"/>
 </p>
 
 ## AVAILABLE ON :
